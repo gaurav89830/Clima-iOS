@@ -1,7 +1,7 @@
 
 # Overview
 
-WeatherApp is a user-friendly iOS application that allows users to retrieve weather information for desired locations. The app integrates with the OpenWeatherAPI to fetch real-time weather data for cities around the world. With a clean and intuitive user interface following the Model-View-Controller (MVC) pattern, WeatherApp provides users with up-to-date weather details and automatically updates the UI based on the weather conditions.
+Clima is an iOS application that allows users to retrieve weather information for desired locations. The app integrates with the OpenWeatherAPI to fetch real-time weather data for cities around the world. With a clean and intuitive user interface following the Model-View-Controller (MVC) pattern, WeatherApp provides users with up-to-date weather details and automatically updates the UI based on the weather conditions.
 
 ## Demo
 
